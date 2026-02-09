@@ -12,6 +12,7 @@ Logs everything into SQLite
 
 Streams real‑time data to a modern React + Tailwind dashboard
 
+
 Includes a Windows desktop GUI with:
 
 Start/Stop backend + dashboard
@@ -66,6 +67,7 @@ Recent callsign table
 Clean, modern UI
 
 Auto‑refresh via WebSocket
+<img width="475" height="701" alt="Screenshot 2026-02-09 090314" src="https://github.com/user-attachments/assets/7029d7ab-d1d2-4bfe-bacb-7f80987abcc4" />
 
 Project Structure
 Code
