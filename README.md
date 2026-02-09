@@ -1,3 +1,5 @@
+![CallGlass Logo](https://img.shields.io/badge/CallGlass-Live%20Callsign%20Monitor-blue?style=for-the-badge&logo=radio&logoColor=white)
+
 # CallGlass
 CallGlass — Real‑Time Ham Radio Callsign Listener & Dashboard
 CallGlass is a full Windows‑integrated ham‑radio monitoring suite that:
