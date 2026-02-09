@@ -67,62 +67,12 @@ Recent callsign table
 Clean, modern UI
 
 Auto‑refresh via WebSocket
-
+Project Structure
 <img width="475" height="701" alt="Screenshot 2026-02-09 090314" src="https://github.com/user-attachments/assets/7029d7ab-d1d2-4bfe-bacb-7f80987abcc4" />
 
-Project Structure
+
 Code
-callglass/
-│
-├── backend/
-│   ├── main.py
-│   ├── config.py
-│   ├── worker.py
-│   │
-│   ├── audio/
-│   │   ├── listener.py
-│   │   ├── signal_strength.py
-│   │   └── whisper_engine.py
-│   │
-│   ├── detection/
-│   │   ├── callsign_parser.py
-│   │   └── confidence.py
-│   │
-│   ├── db/
-│   │   ├── database.py
-│   │   └── models.py
-│   │
-│   └── routers/
-│       ├── callsigns.py
-│       └── live.py
-│
-├── desktop/
-│   ├── app.py
-│   ├── tray.py
-│   ├── server.py
-│   ├── dashboard_server.py
-│   ├── ws_client.py
-│   └── config.json
-│
-├── dashboard/
-│   ├── package.json
-│   ├── postcss.config.cjs
-│   ├── tailwind.config.cjs
-│   ├── vite.config.mts
-│   └── src/
-│       ├── main.jsx
-│       ├── App.jsx
-│       ├── websocket.js
-│       ├── index.css
-│       │
-│       ├── pages/
-│       │   └── Home.jsx
-│       │
-│       └── components/
-│           ├── LatestCard.jsx
-│           └── CallsignTable.jsx
-│
-└── README.md
+
 Installation
 1. Install Python dependencies
 From the project root:
