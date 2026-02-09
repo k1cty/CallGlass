@@ -1,5 +1,4 @@
 # CallGlass
-An Amateur radio inspired callsign dashboard that displays callsigns heard from a radio audio source. 
 CallGlass — Real‑Time Ham Radio Callsign Listener & Dashboard
 CallGlass is a full Windows‑integrated ham‑radio monitoring suite that:
 
